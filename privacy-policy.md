@@ -1,99 +1,99 @@
-# Namaz Vakitleri Gizlilik Politikası
+GİZLİLİK POLİTİKASI
+Yürürlük Tarihi: 3 Mart 2026
 
-**Yürürlük Tarihi:** 16 Aralık 2025
+Namaz Vakitleri ve Dualar uygulaması olarak kullanıcı gizliliğine önem veriyoruz. Bu politika, uygulamamızın hangi verileri topladığını ve nasıl kullandığını açıklar.
 
-## Topladığımız Bilgiler
+1. Toplanan Veriler
 
-Namaz Vakitleri ("Uygulama") aşağıdaki bilgileri toplar:
+Uygulama, kişisel olarak tanımlanabilir bilgi (isim, e-posta adresi vb.) toplamaz.
 
-### Konum Verileri
-- Uygulama, bulunduğunuz konum için doğru namaz vakitlerini hesaplamak amacıyla cihazınızın GPS konumunu kullanır.
-- Bu konum verileri cihazınızda yerel olarak işlenir ve hiçbir sunucuya GÖNDERİLMEZ.
-- Konum verileri kalıcı olarak SAKLANMAZ ve yalnızca anlık hesaplamalar için kullanılır.
+Uygulama performansını iyileştirmek ve kullanıcı deneyimini analiz etmek amacıyla yalnızca anonim kullanım verileri toplanabilir.
 
-### Pusula Verileri
-- Uygulama, Kıble yönünü belirlemek için cihazınızın pusulasını kullanır.
-- Bu veriler yerel olarak işlenir ve toplanmaz veya saklanmaz.
+Bu veriler şunları içerebilir:
 
-## Bilgilerinizi Nasıl Kullanırız
+- Kullanıcının seçtiği şehir bilgisi (konum izni verilmişse)
+- Uygulama içinde ziyaret edilen sayfalar
 
-- **Namaz Vakitleri Hesaplama:** Konumunuz, yalnızca coğrafi koordinatlarınıza göre doğru namaz vakitlerini hesaplamak için kullanılır.
-- **Kıble Yönü:** Pusula yönünüz, Mekke yönünü göstermek için kullanılır.
+Toplanan veriler anonimdir ve kullanıcı kimliğini belirlemek amacıyla kullanılmaz.
 
-## Veri Depolama
+2. Reklam Hizmetleri
 
-- Tüm veriler cihazınızda yerel olarak işlenir ve saklanır.
-- Harici sunucularda herhangi bir kişisel bilgi TOPLAMAZ, İLETMEZ veya SAKLAMAYIZ.
-- Hiçbir analitik veya takip aracı kullanılmaz.
+Uygulama üçüncü taraf reklam hizmetleri (örneğin Google AdMob) kullanabilir.
 
-## Üçüncü Taraf Hizmetler
+Reklam sağlayıcıları kendi gizlilik politikalarına göre veri işleyebilir.
 
-Uygulama, herhangi bir üçüncü taraf hizmeti, analitik veya reklam ağı KULLANMAZ.
+Google Gizlilik Politikası:
+https://policies.google.com/privacy
 
-## Çocukların Gizliliği
+3. Veri Depolama
 
-Bu Uygulama, 13 yaşın altındaki çocuklardan bilerek herhangi bir bilgi toplamaz.
+Uygulama içerisindeki dini içerikler ve ayarlar cihaz üzerinde yerel olarak saklanır.
 
-## Bu Politikadaki Değişiklikler
+Uygulama herhangi bir kişisel veriyi kendi sunucularında saklamaz.
 
-Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Yapılan değişiklikler Uygulama içinde yayınlanacaktır.
+4. Üçüncü Taraf Bağlantılar
 
-## Bize Ulaşın
+Uygulama üçüncü taraf web sitelerine yönlendirme yapabilir. Bu sitelerin gizlilik uygulamalarından sorumlu değiliz.
 
-Bu Gizlilik Politikası hakkında sorularınız varsa, lütfen bizimle iletişime geçin:
+5. Çocukların Gizliliği
 
----
+Uygulama 13 yaş altındaki çocuklara yönelik özel olarak tasarlanmamıştır ve bilinçli olarak çocuklardan kişisel veri toplanmaz.
 
-© 2025 Namaz Vakitleri. Tüm hakları saklıdır.
+6. Değişiklikler
 
----
----
+Bu gizlilik politikası gerektiğinde güncellenebilir. Güncellemeler bu sayfada yayınlandığı anda yürürlüğe girer.
 
-# Privacy Policy for Namaz Vakitleri
+7. İletişim
 
-**Effective Date:** December 16, 2025
+Gizlilik politikası ile ilgili sorularınız için bizimle iletişime geçebilirsiniz.
 
-## Information We Collect
+____________________________________________________________________________________________________________________________________
 
-Namaz Vakitleri ("the App") collects the following information:
+PRIVACY POLICY
+Effective Date: March 3, 2026
 
-### Location Data
-- The App uses your device's GPS location to calculate accurate prayer times for your current location.
-- This location data is processed locally on your device and is NOT sent to any servers.
-- Location data is NOT stored permanently and is only used for real-time calculations.
+Namaz Vakitleri ve Dualar ("the App") respects your privacy. This Privacy Policy explains what information is collected and how it is used.
 
-### Compass Data
-- The App uses your device's compass to determine Qibla direction.
-- This data is processed locally and is NOT collected or stored.
+1. Information We Collect
 
-## How We Use Your Information
+The App does not collect personally identifiable information such as name or email address.
 
-- **Prayer Time Calculations:** Your location is used solely to calculate accurate prayer times based on your geographic coordinates.
-- **Qibla Direction:** Your compass heading is used to show the direction to Mecca.
+To improve app performance and user experience, only anonymous usage data may be collected.
 
-## Data Storage
+This may include:
 
-- All data is processed and stored locally on your device.
-- We do NOT collect, transmit, or store any personal information on external servers.
-- No analytics or tracking tools are used.
+- The selected city (if location permission is granted)
+- Pages visited within the app
 
-## Third-Party Services
+This data is anonymous and is not used to identify individual users.
 
-The App does NOT use any third-party services, analytics, or advertising networks.
+2. Advertising Services
 
-## Children's Privacy
+The App may use third-party advertising services (such as Google AdMob).
 
-This App does not knowly collect any information from children under 13.
+Advertising providers may process data according to their own privacy policies.
 
-## Changes to This Policy
+Google Privacy Policy:
+https://policies.google.com/privacy
 
-We may update this Privacy Policy from time to time. Any changes will be posted within the App.
+3. Data Storage
 
-## Contact Us
+Religious content and user preferences are stored locally on the device.
 
-If you have any questions about this Privacy Policy, please contact us at:
-**Email:** youremail@example.com
+The App does not store personal data on its own external servers.
 
----
+4. Third-Party Links
 
-© 2025 Namaz Vakitleri. All rights reserved.
+The App may contain links to third-party websites. We are not responsible for their privacy practices.
+
+5. Children's Privacy
+
+The App is not specifically directed to children under the age of 13, and we do not knowingly collect personal data from children.
+
+6. Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Updates become effective once published on this page.
+
+7. Contact
+
+If you have any questions regarding this Privacy Policy, you may contact us.
